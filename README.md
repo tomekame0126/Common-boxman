@@ -11,7 +11,7 @@ This program is assignment of wakayama univ in japan.
 
 > *Slime 2.15*
 
-> *cl-glutr*
+> *cl-glut*
 
 
 by Google Translate
