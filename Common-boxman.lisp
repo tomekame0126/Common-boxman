@@ -1,5 +1,5 @@
 ;;
-;; Common-BoxMan
+;; Common-boxman
 ;;
 ;; -----------------------------------------------------------------------------------------------
 (defparameter *stepcycle* 400)  ; frame number for swing of arm
